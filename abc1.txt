@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good morning .
+=======
+good morning
+>>>>>>> 58c11dc (abc1.txt again)
